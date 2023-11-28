@@ -1,4 +1,3 @@
-Perfil GitHub de [Seu Nome]
 Olá! 👋 Sou Luiz Filipe, um entusiasta da programação apaixonado por desafios e inovação. Com mais de 6 meses de experiência em desenvolvimento, concentro meu trabalho nas linguagens Java, Python e SQL. Ao longo desse período, venho aprimorando minhas habilidades e buscando soluções eficientes para problemas complexos.
 
 Principais Destaques:
